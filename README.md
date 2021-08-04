@@ -4,7 +4,8 @@
 
 ![Screenshot (210)](https://user-images.githubusercontent.com/81366533/128158851-a3717dfb-9375-48e0-8253-df6c356add55.png)
 
-
+## API
+- https://covid19.mathdro.id/api
 ## Installation
 - type ` npm install`into your terminal
 - type `npm start` in your terminal to run the project
